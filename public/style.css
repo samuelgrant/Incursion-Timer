@@ -2,20 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 body {
-    
 }
 
 h2 {
     font-size: 5rem;
     font-weight: bold;
-
 }
 
-.coming-soon{
+.coming-soon {
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -23,8 +22,7 @@ h2 {
     justify-content: center;
 }
 
-.countdown{
+.countdown {
     display: flex;
     justify-content: space-around;
-
 }
